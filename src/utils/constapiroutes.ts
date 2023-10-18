@@ -1,0 +1,1 @@
+export const API_URL = "https://apirestpruebatecnica.somee.com/api/"
